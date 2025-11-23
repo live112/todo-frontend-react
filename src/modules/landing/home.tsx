@@ -8,15 +8,18 @@ export function Home() {
   const features = [
     {
       title: "Recordatorios Inteligentes",
-      description: "Recibe notificaciones en el momento perfecto para no olvidar tus tareas importantes.",
+      description:
+        "Recibe notificaciones en el momento perfecto para no olvidar tus tareas importantes.",
     },
     {
       title: "Seguimiento de Hábitos",
-      description: "Crea y mantén hábitos saludables con estadísticas visuales de tu progreso.",
+      description:
+        "Crea y mantén hábitos saludables con estadísticas visuales de tu progreso.",
     },
     {
       title: "Organización Eficiente",
-      description: "Gestiona tus tareas diarias con categorías, prioridades y fechas límite.",
+      description:
+        "Gestiona tus tareas diarias con categorías, prioridades y fechas límite.",
     },
   ];
 
@@ -108,17 +111,18 @@ export function Home() {
                         <strong className="text-slate-900 dark:text-white">
                           Recordatorios Personalizados:
                         </strong>{" "}
-                        Configura notificaciones para que nunca olvides una tarea
-                        importante. Elige la fecha y hora exacta, o deja que ToDo
-                        te recuerde en el momento ideal.
+                        Configura notificaciones para que nunca olvides una
+                        tarea importante. Elige la fecha y hora exacta, o deja
+                        que ToDo te recuerde en el momento ideal.
                       </p>
                       <p>
                         <strong className="text-slate-900 dark:text-white">
                           Seguimiento de Hábitos:
                         </strong>{" "}
-                        Desarrolla y mantén hábitos positivos con nuestro sistema
-                        de seguimiento. Visualiza tu progreso con estadísticas
-                        detalladas y mantén la motivación día a día.
+                        Desarrolla y mantén hábitos positivos con nuestro
+                        sistema de seguimiento. Visualiza tu progreso con
+                        estadísticas detalladas y mantén la motivación día a
+                        día.
                       </p>
                     </div>
                   </div>
